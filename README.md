@@ -7,8 +7,9 @@
 
 #### *UI :-*
 
-![Screenshot (3)](https://github.com/Soumys56/Stopwatch-Frontend/assets/88768160/7bae4112-b73e-47d4-8a51-9d1fb1a4ec91)
 
+
+![Screenshot (5)](https://github.com/Soumys56/Stopwatch-Frontend/assets/88768160/4d56196c-60da-4b71-85fb-51ce4394c18d)
 
 ### *Demo Video*
 https://github.com/Soumys56/Stopwatch-Frontend/assets/88768160/db3d216a-58a5-4128-92e5-ae3c4f5e596f
