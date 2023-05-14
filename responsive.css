@@ -1,0 +1,70 @@
+@media screen and (max-width:466px) {
+    button{
+        display: block;
+         margin: 0 auto;
+         margin-bottom: 22px;
+        width: 181px;
+         height: 50px;
+         border: 1px solid white;
+    }
+    
+
+    
+}
+@media screen and (max-width:352px) {
+
+    .timer-para::before{
+        content: "";
+        position: absolute;
+        
+        width: 150px;
+        height: 150px;
+        background-color: rgba(3, 3, 3, 0.28);
+        left: -18%;
+         top: -266%;
+        border-radius: 50%;
+        animation-name: shadow;
+        animation-duration: 3s;
+        animation-iteration-count: infinite;
+        
+        
+        
+        
+        }
+        .timer-para span{
+            color: white;
+            font-family: 'Times New Roman', Times, serif;
+            padding: 15px;
+        } 
+        
+        .timer-para {
+            position: relative;
+            color: white;
+            z-index: 999;
+            display: inline-block;
+            margin-bottom: 130px;
+            font-size: 20px;
+           
+           
+        
+        }
+
+    div {
+        margin-top: -24px;
+      }
+
+
+
+    button{
+        padding: 10px;
+        display: block;
+         margin: 0 auto;
+         margin-bottom: 20px;
+       width: 120px;
+         height: 50px;
+         border: 1px solid white;
+    }
+    
+
+    
+}
